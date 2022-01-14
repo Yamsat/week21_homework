@@ -131,7 +131,18 @@ Lets's check token balance for each investor.
 
 ![token balance 3](screenshots/token_balance_3.png)
 
-Let's export PUP token to Metamask for the first investor. 
+### Adding PupperCoin to Metamask
+
+Let's export PUP token to Metamask.
+Click "Assets" tab and navigate to "Import tokens."
+
+![token import 1](screenshots/import_1.png)
+
+Populate "Token Contact Address" with PupperCoin contract address.  Symbol and decimal automatically show up. Then click "Add Custom Token."
+
+![token import 2](screenshots/import_2.png)
+
+You see PupperCoin and its balance. Click "Import Tokens."
 
 ![token imported](screenshots/token_imported.png)
 
