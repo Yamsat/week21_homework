@@ -103,9 +103,9 @@ Check how much Wei has been raised. Yes, we have acheived the goal!
 
 ![raised 1](screenshots/raised_3.png)
 
-The cap has also been reached. But let's see if we can raise more.
+The cap has also been reached. But someone tries to buy PupeerCoin.
 
-![raise 4](screenshots/raise_4.png)
+![raise 4](screenshots/buy_token_4.png)
 
 Error message pops up.
 
